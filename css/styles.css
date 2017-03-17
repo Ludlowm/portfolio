@@ -8,10 +8,11 @@ h2 {
 }
 
 h1 {
+  font-family: 'Julius Sans One', sans-serif;
   text-align: center;
   color: white;
   font-weight: bold;
-  font-family: 'Julius Sans One', sans-serif;
+
 }
 .well {
   background-color: #3b5998;
